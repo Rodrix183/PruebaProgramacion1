@@ -19,3 +19,15 @@ nav a{
   /*Quitar el subrayado de la navbar*/
   text-decoration: none;
 }
+
+main{
+  /*Margen de 20px de diferencia en el main (espacio alrededor)*/
+  padding: 20px;
+}
+
+footer{
+  background: #111;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
